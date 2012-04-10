@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Selection" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TAQAEAAAgACAAgAAAEACAAAAAAAACBMAABBAAAAAQQA=</HashCode>
+      <FileName>Selection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::AnimatedButton" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAQBAAAAAARAAAAAAAAEAAAAAAAAAAAAAgQAAAAAA=</HashCode>
+      <FileName>AnimatedButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Animation" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEAAAoCABByAAhAAAAACAAAAAwRAk4AAiIABAggM=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Sprite" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAACAAACgAAAAAAEQAAAIAAgQAJCAAAEAAAA=</HashCode>
+      <FileName>f:\visual studio 2010\vc\include\sfml\graphics\sprite.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Drawable" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEQAABAKCAAgYAAAKADCIMMgAAAgiAoBwBAiAAACA=</HashCode>
+      <FileName>f:\visual studio 2010\vc\include\sfml\graphics\drawable.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Shape" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEQgBAAAAQAAABABAAEICBAAggABYAABAECACBAEA=</HashCode>
+      <FileName>f:\visual studio 2010\vc\include\sfml\graphics\shape.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sf::Button&lt;T&gt;" Collapsed="true">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEBBQBAAAiCAQBAAAAAAAGQASAAAAAAAIAABAAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgBAAAAAgAAAAAICAACAAFgAACAAAIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceManager&lt;T&gt;" Collapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAAIAAAACAAAAAEAAAAAAAAAAACAAAAAAIAAg=</HashCode>
+      <FileName>ResourceManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationManager" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>AnimationManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonManager" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>ButtonManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FontManager" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FontManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManager" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <InheritanceLine Type="ResourceManager&lt;T&gt;" FixedFromPoint="true">
+      <Path>
+        <Point X="5" Y="7.062" />
+        <Point X="5" Y="7.375" />
+        <Point X="8.25" Y="7.375" />
+        <Point X="8.25" Y="7.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallsCollection" Collapsed="true">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAQgBAIAACAACAABEAAACAABAAAAAGACA=</HashCode>
+      <FileName>BallsCollection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FASAIAAEgAQUAgAkACQCAgSAIQAAABABAEAAAAQAAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Countdown&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAEAQAAAAAACAAAAAAAAAAAUAEEA=</HashCode>
+      <FileName>Countdown.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomCursor" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAAAAAAAAAgAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Cursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
